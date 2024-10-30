@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: db_log/db_update-content.yaml
